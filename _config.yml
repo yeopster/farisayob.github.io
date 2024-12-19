@@ -2,4 +2,4 @@ title: Muhammad Faris Bin Ayob
 #logo: /assets/img/headshot_circle.png
 #description: text below image
 show_downloads: true
-theme:
+theme: jekyll-theme-merlot
